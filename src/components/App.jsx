@@ -3,6 +3,8 @@ import { Statistics } from './Statistics/Statistics';
 import { FeedbackOptions } from './FeedbackOptions/FeedbackOptions';
 import { Section } from './Section/Section';
 
+//DO HOOKS
+
 export class App extends Component {
   state = {
     good: 0,
